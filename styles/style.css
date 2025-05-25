@@ -208,7 +208,7 @@
 }
 
 .about {
-    padding: 110px 24px;
+    padding: 115px 24px;
 }
 
 .about__column {
@@ -256,7 +256,7 @@
     justify-content: space-between;
     align-items: start;
     margin-top: 50px;
-    padding: 0 50px 50px 50px;
+    padding: 0 50px 70px 50px;
 }
 
 .footer__address {
